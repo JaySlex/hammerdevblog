@@ -37,13 +37,14 @@ nav a {
   color: #fff;
   padding: 10px 20px;
   border: 1px solid #fff;
-  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  /*transition: background-color 0.3s, color 0.3s, border-color 0.3s;*/
+  background-image: url('prototype_gray.png');;
+  background-size:contain;
 }
 
 nav a:hover {
-  background-color: #fff;
-  color: #1e1e1e;
-  border-color: #1e1e1e;
+  /*background-color: #fff;*/
+  color: #a7a7a7;
 }
 
 
